@@ -4,7 +4,7 @@
 // @description  Calculate your GPA straight from the PupilPath dashboard.
 // @author       Ismaeel Akram
 // @match        https://pupilpath.skedula.com/Home/Dashboard/
-// @update       https://github.com/IsmaeelAkram/PupilPath-GPA
+// @updateURL    https://github.com/IsmaeelAkram/PupilPath-GPA/raw/main/script.user.js
 // @icon         https://www.google.com/s2/favicons?domain=skedula.com
 // @grant        none
 // ==/UserScript==
